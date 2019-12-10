@@ -1,4 +1,3 @@
-
 public class Class_test {
 	public void Class_test() {
 		
